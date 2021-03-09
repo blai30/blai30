@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Lai</h1>
-<h3 align="center">A passionate software engineer, full stack developer, and game developer. My favorite environment is C# and .NET.</h3>
+<h3 align="center">A passionate software engineer, full stack developer, and game developer. My favorite environment is C# + .NET.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blai30&label=Profile%20views&color=0e75b6&style=flat" alt="blai30" /> </p>
 
@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Angular, Flutter, .NET, Blender.**
 
-- 💬 Ask me about **C#, .NET, Unity, 2D art.**
+- 💬 Ask me about **C#, .NET, Unity, Java, 2D art.**
 
 - ⚡ Fun fact **I like to play games and watch anime.**
 
