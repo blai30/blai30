@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Lai</h1>
-<h3 align="center">A passionate software engineer, full stack developer, and game developer. My favorite environment is C# + .NET. I like Angular for front-end.</h3>
+<h3 align="center">Software Engineer, Full-stack Web Developer, and Unity hobbyist. My favorite developement environment includes C#/.NET + Angular and I have a passion for making games in Unity.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=blai30&label=Profile%20views&color=0e75b6&style=flat" alt="blai30" /> </p>
 
