@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on [Asuka.Net Discord bot.](https://github.com/blai30/Asuka.Net)
 
-- 🌱 I’m currently learning **Angular, .NET, Blender.**
+- 🌱 I’m currently learning **Angular, .NET, React.**
 
 - 💬 Ask me about **C#, .NET, Unity, Java.**
 
