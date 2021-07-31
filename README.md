@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Lai</h1>
-<h3 align="center">Software Engineer, Full-stack Web Developer, and Unity hobbyist. My favorite developement environment includes C#/.NET + Angular and I have a passion for making games in Unity.</h3>
+<h3 align="center">Software Engineer, Full-stack Web Developer, and Unity hobbyist. My favorite development environment is C#/.NET. I also have a passion for making games in Unity.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=blai30&label=Profile%20views&color=0e75b6&style=flat" alt="blai30" />
@@ -11,9 +11,9 @@
 
 - 🔭 I’m currently working on [Asuka.Net Discord bot.](https://github.com/blai30/Asuka.Net)
 
-- 🌱 I’m currently learning **Angular, .NET, React.**
+- 🌱 I’m currently learning **.NET, React with Next.js.**
 
-- 💬 Ask me about **C#, .NET, Unity, Java.**
+- 💬 Ask me about **C#, .NET, Unity, Java, Tailwind CSS.**
 
 - ⚡ Fun fact **I like to play games and watch anime.**
 
