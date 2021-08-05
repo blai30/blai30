@@ -5,11 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=blai30&label=Profile%20views&color=0e75b6&style=flat" alt="blai30" />
 </p>
 
-<p align="left">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=blai30" alt="blai30" /></a>
-</p>
-
-- 🔭 I’m currently working on [Asuka.Net Discord bot.](https://github.com/blai30/Asuka.Net)
+- 🔭 I’m currently working on [Asuka.Net Discord bot](https://github.com/blai30/Asuka.Net) and various other projects with C#/.NET and Next.js.
 
 - 🌱 I’m currently learning **.NET, React with Next.js.**
 
@@ -110,8 +106,6 @@
   </a>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blai30&show_icons=true&locale=en&layout=compact" alt="blai30" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=blai30&show_icons=true&locale=en" alt="blai30" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=blai30&" alt="blai30" /></p>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=blai30&show_icons=true&locale=en&layout=compact&theme=dark" alt="blai30" />
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=blai30&show_icons=true&locale=en&theme=dark" alt="blai30" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=blai30&theme=dark" alt="blai30" />
