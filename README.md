@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Lai</h1>
-<h3 align="center">Software Engineer, Web Developer, and Unity hobbyist. Experienced in C#/.NET, NextJS (React) with TypeScript and Tailwind CSS, Godot Engine, and Unity.</h3>
+<h3 align="center">Software Engineer, Web Developer, and Unity hobbyist.</h3>
+<h3 align="center">Experienced in C#/.NET, NextJS (React) with TypeScript and Tailwind CSS, Godot Engine, and Unity.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=blai30&label=Profile%20views&color=0e75b6&style=flat" alt="blai30" />
@@ -7,7 +8,7 @@
 
 - 🔭 I’m currently working on [AsukaNet Discord bot](https://github.com/blai30/AsukaNet) and [Hextech Check](https://github.com/blai30/hextech-check).
 
-- 🌱 I’m currently learning **Godot, .NET, React with Next.js.**
+- 🌱 I’m currently learning **Godot, React with Next.js.**
 
 - 💬 Ask me about **C#, .NET, Godot, Unity, React, Tailwind CSS.**
 
