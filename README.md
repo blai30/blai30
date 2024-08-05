@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Brian Lai</h1>
-<h3 align="center">Software Engineer, Web Developer, and Unity hobbyist.</h3>
-<h3 align="center">Experienced in C#/.NET, NextJS (React) with TypeScript and Tailwind CSS, Godot Engine, and Unity.</h3>
+<h2 align="center">Software Engineer, Web Developer, and Unity hobbyist.</h3>
+<h4 align="center">Experienced in C#/.NET, NextJS (React) with TypeScript and Tailwind CSS, Godot Engine, and Unity.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=blai30&label=Profile%20views&color=0e75b6&style=flat" alt="blai30" />
