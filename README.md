@@ -58,6 +58,9 @@
   <a href="https://www.typescriptlang.org/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40" />
   </a>
+  <a href="https://godotengine.org/" target="_blank">
+    <img src="https://godotengine.org/assets/press/icon_color.png" alt="godot" width="40" height="40" />
+  </a>
   <a href="https://unity.com/#gh-light-mode-only" target="_blank">
     <img src="https://raw.githubusercontent.com/blai30/blai30.github.io/master/public/logos/unity-positive.svg" alt="unity" width="40" height="40" />
   </a>
