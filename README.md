@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Brian Lai</h1>
-<h3 align="center">Software Engineer, Web Developer, and Unity hobbyist. My favorite development environment is C#/.NET and React with Next.js. Huge fan of Tailwind CSS.</h3>
+<h3 align="center">Software Engineer, Web Developer, and Unity hobbyist. Experienced in C#/.NET, NextJS (React) with TypeScript and Tailwind CSS, Godot Engine, and Unity.</h3>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=blai30&label=Profile%20views&color=0e75b6&style=flat" alt="blai30" />
@@ -7,11 +7,9 @@
 
 - 🔭 I’m currently working on [AsukaNet Discord bot](https://github.com/blai30/AsukaNet) and [Hextech Check](https://github.com/blai30/hextech-check).
 
-- 🌱 I’m currently learning **.NET, React with Next.js.**
+- 🌱 I’m currently learning **Godot, .NET, React with Next.js.**
 
-- 💬 Ask me about **C#, .NET, Unity, React, Tailwind CSS.**
-
-- ⚡ Fun fact **I like to play games and watch anime.**
+- 💬 Ask me about **C#, .NET, Godot, Unity, React, Tailwind CSS.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -21,15 +19,6 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
-  <a href="https://angular.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/blai30/blai30.github.io/main/public/logos/angular.svg" alt="angularjs" width="40" height="40" />
-  </a>
-  <a href="https://www.cprogramming.com/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40" />
-  </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40" />
-  </a>
   <a href="https://www.w3schools.com/cs/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40" />
   </a>
