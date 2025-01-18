@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Brian
 ![Visitor Count](https://komarev.com/ghpvc/?username=blai30&label=Profile%20views&color=0e75b6&style=flat)
+[Portfolio](https://www.brianlai.dev/)
 
 ## 🚀 About Me
 - 💻 Software Developer, Web Developer, Godot hobbyist
