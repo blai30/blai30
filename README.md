@@ -24,5 +24,5 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
 
 ## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blai30&layout=compact&theme=dark)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blai30&layout=compact&theme=dark&exclude_repo=novelists-web,shootgame,BaySpace,angular-udemy-project,AsukaNet-Api,angular-udemy,novelists-api)
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=blai30&show_icons=true&theme=dark)
