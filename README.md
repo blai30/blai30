@@ -1,5 +1,6 @@
 # Hi there 👋 I'm Brian
 ![Visitor Count](https://komarev.com/ghpvc/?username=blai30&label=Profile%20views&color=0e75b6&style=flat)
+
 [Portfolio](https://www.brianlai.dev/)
 
 ## 🚀 About Me
@@ -22,7 +23,3 @@
 ![NodeJS](https://img.shields.io/badge/Node.js-%23339933.svg?style=flat&logo=node.js&logoColor=white)
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=flat&logo=postgresql&logoColor=white)
-
-## 📊 GitHub Stats
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=blai30&layout=compact&theme=dark&exclude_repo=novelists-web,shootgame,BaySpace,angular-udemy-project,AsukaNet-Api,angular-udemy,novelists-api,resume)
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=blai30&show_icons=true&theme=dark)
